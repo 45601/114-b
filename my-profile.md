@@ -7,3 +7,6 @@
 * 技能3
 
 座右銘 : *0xxx0*
+
+[google](https://www.google.com)
+![goole](google.png)
